@@ -1,0 +1,4 @@
+source:
+1)CodingNepal, link: https://www.codingnepalweb.com/responsive-personal-portfolio-website/
+it is an open sourse and anyone can download and edit.
+Fonts and social media icons: fontawesome https://fontawesome.com/v5.15/icons?d=gallery&p=2
