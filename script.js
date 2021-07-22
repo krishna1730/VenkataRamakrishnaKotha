@@ -39,6 +39,14 @@ $(document).ready(function(){
         backSpeed: 60,
         loop: true
     });
+    
+    // typing text animation script
+    var typed = new Typed(".typing1", {
+        strings: ["Sdudent", "Engineer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
     // owl carousel script
     $('.carousel').owlCarousel({
