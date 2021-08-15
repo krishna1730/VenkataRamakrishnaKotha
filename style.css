@@ -311,7 +311,7 @@ section .title::after{
 
 /* skills section styling */
 .skills .title::after{
-    content: "who i am";
+    content: "what i know";
 }
 .skills .skills-content .text{
     font-size: 28px;
